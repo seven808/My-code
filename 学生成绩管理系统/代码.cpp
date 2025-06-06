@@ -62,7 +62,7 @@ void sort() {
 			<< setw(8) << students[i].name
 			<< setw(8) << students[i].foxscore
 			<< setw(8) << students[i].cscore
-			<< setw(8) << students[i].foxscore
+			<< setw(8) << students[i].englishscore
 			<< setw(8) << students[i].total
 			<< endl;
 	}
